@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from matplotlib.pyplot import imread
 import matplotlib.pyplot as plt
 import skimage
