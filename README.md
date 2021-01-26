@@ -2,7 +2,8 @@
 
 ## Details
 Python-based model to replicate a Visual Neuroscience experimental results to validate the treatment for macculopathy on a digital set-up.
-Use 'CONDITIONS_FYP.py' if you want to run the model.
+
+Use 'CONDITIONS_FYP.py' within the 'CONDITIONS_FYP' folder if you want to run the model.
 ## Background
 Age-related macular degeneration is a progressive disease of the central retina that causes a
 preference for peripheral vision. The retina has two different types of light-sensitive cells, cones
