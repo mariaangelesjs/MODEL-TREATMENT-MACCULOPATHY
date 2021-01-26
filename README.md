@@ -7,7 +7,7 @@ Python-based model to replicate a Visual Neuroscience experimental results to va
 
 *Use 'CONDITIONS_FYP.py' within the 'CONDITIONS_FYP' folder if you want to run the model. Before running the model, you need to download 'pygame background 2.png' and 'Sloan.otf' within the same folder.
 
-**Note: if you want to use this model, you must cite this GitHub repository. This was a Final Year Project MSci in Neuroscience done at the University of Nottingham and completed in May 2020.**
+**Note: if you want to use this model, you must cite this GitHub repository. This was a Final Year MSci in Neuroscience Project done at the University of Nottingham and completed in May 2020.**
 
 ## Background
 Age-related macular degeneration is a progressive disease of the central retina that causes a
